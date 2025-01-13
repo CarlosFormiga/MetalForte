@@ -1,0 +1,4 @@
+enum DataFrom {
+  local,
+  remote,
+}
